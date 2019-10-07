@@ -1,1 +1,6 @@
+
+This is a link to the assignment of MAchine learning with python course updated by me and got 100% score
+
+
+
 https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/65158c22-36bd-468f-abbd-9267717c1ce0/view?access_token=1141dedf2d7a2dc38c737901b9f4a1301a03d30312116275af7e67fd08075eff
